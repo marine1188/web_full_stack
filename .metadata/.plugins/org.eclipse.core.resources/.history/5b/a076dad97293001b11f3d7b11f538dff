@@ -1,0 +1,31 @@
+package quiz;
+import java.util.Random;
+public class Quiz_03_up_dawun {
+	//로또 프로그램 
+	/*
+	 1~45 까지 6개 숫자 추출 (단, 같은 수 없어야함 
+	 */
+	
+	//업/ 다운 게임 프로그렘 작성 
+	/*
+	 1~100 숫자 중에서 임의의 난수 추출해 놓고, 사용자에게 5회 기회를 
+	 줘서 입력 받는다. 그 입력 받은 숫자와 추출된 난수가 같은지 판정하는 프로그램 
+	 */
+		
+		public static int lotto_num() {
+			
+			Random ran = new Random();
+			
+			for (int i = 0; i < 7; i++) {
+				
+				
+				System.out.print(ran.nextInt(45)+1+"\n");
+			}
+			return 0;
+			
+		}
+	
+		public static void main(String[] args) {
+			lotto_num();
+		}
+}

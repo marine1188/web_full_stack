@@ -1,0 +1,28 @@
+package quiz;
+
+import java.util.Scanner;
+
+public class quiz_03 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//배열 문제 3
+		
+		//3.
+		int[][] a3 = { {1,2,3}, {4,5,6} };  //초기화
+		
+		//배열 값 출력
+		System.out.println("a3[0][2] = " + a3[0][2]  );
+		System.out.println("a3[1][1] = " + a3[1][1]  );
+		
+		for (int i = 0; i < 2; i++) {  // 행 크기
+			for (int j = 0; j < 3; j++) {
+				System.out.print(a3[i][j] + " ");
+			} // j end
+			System.out.println();
+		} // i end
+	
+
+	}
+
+}

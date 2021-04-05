@@ -1,0 +1,17 @@
+package ex02.inheritance;
+
+public class Circle extends Point {
+	private int r;
+	
+	public Circle() {
+		r = 5;
+	}
+	public Circle(int x) {
+		super(x);
+		r = 10;
+	}
+	
+	public void disp() {
+		System.out.println(x + ","+y+","+r);
+	}
+}

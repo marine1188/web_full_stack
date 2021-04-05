@@ -1,0 +1,13 @@
+/*
+ Employee -> 상속 받는 클래스 Regu
+ */
+package quiz;
+
+public class MianEntry {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

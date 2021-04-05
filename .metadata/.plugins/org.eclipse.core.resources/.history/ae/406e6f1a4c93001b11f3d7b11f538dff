@@ -1,0 +1,17 @@
+package ex01.metod;
+
+public class MainEntry {
+
+	public static void main(String[] args) { // 시작점(진입점)
+		System.out.println("main start ~");
+		showName();
+		
+	}
+
+	//1) 매개 변수 없고, 리턴타입 없는 경우
+	public static void showName() {
+		System.out.println("gi dong");
+	}
+
+}
+

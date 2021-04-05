@@ -1,0 +1,24 @@
+package quiz;
+//풀어보기
+import java.util.Scanner;
+
+public class Quiz_method {
+
+	public static void sum() {
+		
+	}
+	
+	
+	public static void sub() {
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		
+
+	}
+
+}

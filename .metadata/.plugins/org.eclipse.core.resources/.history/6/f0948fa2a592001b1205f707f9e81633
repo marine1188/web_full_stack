@@ -1,0 +1,21 @@
+package quiz;
+
+public class quiz_01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//		//문제1
+//		int[]a {7,3,5,7,12,99,7,2,7,8};
+		
+//		//문제 2 : 기상청 
+//	특정달(4월) 감수량 측정
+//		평균 하기 (30일기준)// 강수량 측정해서 강수량 
+		
+		int[]a = {7,3,5,7,12,99,7,2,7,8};
+		
+		System.out.println(a[0]);
+		
+		
+	}
+
+}

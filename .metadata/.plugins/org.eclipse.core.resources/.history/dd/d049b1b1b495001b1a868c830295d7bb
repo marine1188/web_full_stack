@@ -1,0 +1,14 @@
+package ex02.inheritance;
+
+public class Resct exends Point {
+	private int z;
+
+	// 생성자 함수 = 2개이상 
+	private Resct(int z) {
+		this.z = 10;
+	}
+	
+	//getter //setter method 
+	
+	//output method 
+}

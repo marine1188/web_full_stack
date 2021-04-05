@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ex06.BreakContinue.MultIBreak&apos; to &apos;MultiBreak&apos;&#x0D;&#x0A;- Original project: &apos;day18_control&apos;&#x0D;&#x0A;- Original element: &apos;ex06.BreakContinue.MultIBreak&apos;&#x0D;&#x0A;- Renamed element: &apos;ex06.BreakContinue.MultiBreak&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MultIBreak&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ex06.BreakContinue{MultIBreak.java[MultIBreak" matchStrategy="1" name="MultiBreak" qualified="false" references="true" similarDeclarations="false" stamp="1617242327927" textual="false" version="1.0"/>
+</session>

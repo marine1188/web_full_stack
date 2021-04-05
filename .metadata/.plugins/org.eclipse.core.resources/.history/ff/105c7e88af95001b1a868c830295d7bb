@@ -1,0 +1,5 @@
+package ex02.inheritance;
+
+public class Circle extends Point {
+	private int r;
+}

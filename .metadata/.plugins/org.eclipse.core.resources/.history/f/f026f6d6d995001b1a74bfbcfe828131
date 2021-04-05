@@ -1,0 +1,14 @@
+package ex05.Abstract;
+
+public class MainEntry {
+	public static void main(String[] args) {
+		
+		//1. 각자의 클래스로 객체 생성 형태
+		Rect r = new Rect();
+		r.show("사각형");
+		Triangel t = new Triangel();
+		t.show("삼각형아");
+		Circle c = new Circle();
+		c.show("원아");
+	}
+}

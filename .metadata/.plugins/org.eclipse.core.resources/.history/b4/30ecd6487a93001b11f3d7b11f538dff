@@ -1,0 +1,14 @@
+package ex01.oop;
+
+class Point{
+	int x,y;
+}
+
+public class MainEntry {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

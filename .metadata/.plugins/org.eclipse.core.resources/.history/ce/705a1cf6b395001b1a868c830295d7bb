@@ -1,0 +1,9 @@
+package ex02.inheritance;
+
+public class Resct {
+	// 생성자 함수 = 2개이상 
+	
+	//getter //setter method 
+	
+	//output method 
+}

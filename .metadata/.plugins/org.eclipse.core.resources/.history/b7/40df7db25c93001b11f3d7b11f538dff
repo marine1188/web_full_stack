@@ -1,0 +1,10 @@
+package ex02.method;
+
+public class MainEntry {
+	public static void main(String[] args) {  //매개변수(인수)에 값 전달하기
+		
+		int hap = Integer.parseInt(args[0]) + Integer.parseInt(args[1]);
+		
+		System.out.println(hap);
+	}
+}

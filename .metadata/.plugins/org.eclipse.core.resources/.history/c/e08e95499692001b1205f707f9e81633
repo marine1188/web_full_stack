@@ -1,0 +1,12 @@
+package ex01.array;
+
+public class MainEntry {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//1. 선언 하는 방법
+		char[] ch; //배열선언
+		
+	}
+
+}

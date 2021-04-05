@@ -1,0 +1,14 @@
+package ex01.method;
+
+public class ArgumentVariable {
+	
+	public static void plus(int x, int y) {
+		System.out.println(x+y);
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

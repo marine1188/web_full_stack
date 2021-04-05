@@ -1,0 +1,23 @@
+package ex01.method;
+
+public class OverloadMethod {
+	// 변수가 다른면 다른 함수로 인식
+	
+	
+	public static void line() {
+		System.out.println("=========================");
+	}
+	public static void line(int n) {
+		System.out.println("=========================");
+	}
+	public static void line(String n) {
+		System.out.println("=========================");
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		line();
+		
+
+	}
+
+}

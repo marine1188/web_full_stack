@@ -1,0 +1,9 @@
+/*
+ 이름 ,직급 부서,연락처
+ */
+package quiz02;
+
+public class Employee extends Regular   {
+	
+
+}

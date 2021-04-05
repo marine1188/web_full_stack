@@ -1,0 +1,43 @@
+package ex01.constructor;
+
+public class Point {
+	
+	
+	//매개 변수
+	private int x,y;
+	
+	// 기능 상실하게 하느게 하는 코드
+	public Point(int x,int y) {// this 매개 변수를 나타님
+		this.x = x;
+		this.y = y;
+	}
+	
+	public Point(int x) {//매개변수 1개인자 갖는
+		this.x =x;
+		y =5;
+	}
+	
+	public Point() {// 디폴트 생성자
+		x = y = 99;
+	}
+	
+	public int getX() {
+		return x;
+	}
+
+	public void setX(int x) {
+		this.x = x;
+	}
+
+	public int getY() {
+		return y;
+	}
+
+	public void setY(int y) {
+		this.y = y;
+	}
+	
+	public void disp() {
+		System.out.println(x+","+y);
+	}
+}

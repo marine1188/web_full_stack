@@ -1,0 +1,21 @@
+package ex01.method;
+
+public class OverloadMethod {
+	
+	public static void line() {
+		System.out.println("=========================");
+	}
+	public static void line() {
+		System.out.println("=========================");
+	}
+	public static void line() {
+		System.out.println("=========================");
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		line();
+		
+
+	}
+
+}

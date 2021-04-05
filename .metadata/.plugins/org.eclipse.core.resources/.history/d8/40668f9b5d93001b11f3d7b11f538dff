@@ -1,0 +1,12 @@
+package ex03.method;
+//- instance method : 객체 생성하고 사용해야함 (메모리에 할당이 되어야,... )
+
+
+public class InstanceMethod {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

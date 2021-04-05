@@ -1,0 +1,7 @@
+package ex05.Abstract;
+
+import ex05.Abstract.Shape.java;
+
+public class Triangel extends java {
+
+}

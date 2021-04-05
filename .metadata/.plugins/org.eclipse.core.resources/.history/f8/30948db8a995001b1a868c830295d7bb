@@ -1,0 +1,5 @@
+package ex01.constructor;
+
+public class Point {
+	private int x,y;
+}

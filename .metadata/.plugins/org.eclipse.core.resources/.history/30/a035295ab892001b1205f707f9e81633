@@ -1,0 +1,12 @@
+package ex03.sort;
+
+public class ForeachTesat {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int[] a = { 7, 3, 5, 2, 8,90,100,88 };
+		
+		System.out.println("\n**** 오름차순 정렬 : ");
+	}
+
+}

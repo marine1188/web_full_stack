@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/marine1188/Grade-management_java.git"/>
+		<item value="https://github.com/marine1188/web_full_stack_douzone.git"/>
+		<item value="https://github.com/marine1188/Douzone_webfullstack_process.git"/>
+		<item value="https://github.com/marine1188/WebFullStackDeveloperCourse_21.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="user &lt;user@LAPTOP-070RFMDH&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="user &lt;user@LAPTOP-070RFMDH&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="D:\workspace\day16_basic\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\user\git\WebFullStackDeveloperCourse_21\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\user\git\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\workspace\day17_basic\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\workspace\web_full_stack\day18_control\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\workspace\web_full_stack\day17_basic_u\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\user\git\Douzone_webfullstack_process\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\user\git\web_full_stack_douzone\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\workspace\web_full_stack\day20_method\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\workspace\web_full_stack\Grad_Mgt\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\user\git\repository\.git">
+			<item value="empty"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="265"/>
+		<item key="DIALOG_Y_ORIGIN" value="274"/>
+		<item key="DIALOG_WIDTH" value="861"/>
+		<item key="DIALOG_HEIGHT" value="466"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|6.5|0|WINDOWS|1|-13|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="GitCreatePatchWizard">
+		<item key="GitCreatePatchWizard.LocationPage.location" value="clipboard"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.fetch.FetchResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="613"/>
+		<item key="DIALOG_Y_ORIGIN" value="239"/>
+		<item key="DIALOG_WIDTH" value="618"/>
+		<item key="DIALOG_HEIGHT" value="466"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|6.5|0|WINDOWS|1|-13|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.repository.CreateBranchPage$SourceSelectionDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="22"/>
+		<item key="DIALOG_Y_ORIGIN" value="-137"/>
+		<item key="DIALOG_WIDTH" value="540"/>
+		<item key="DIALOG_HEIGHT" value="510"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|6.5|0|WINDOWS|1|-13|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+</section>

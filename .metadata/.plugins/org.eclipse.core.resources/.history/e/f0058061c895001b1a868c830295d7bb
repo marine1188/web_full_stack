@@ -1,0 +1,22 @@
+/*
+ Employee -> 상속 받는 클래스 Regutl
+ */
+package quiz;
+
+public class MianEntry {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			String name = null;
+			String rank = null;
+			String department = null;
+			Employee em = new Employee();
+			
+			em.setName(name);
+			em.setRank(rank);
+			em.setDepartment(department);
+			System.out.println(em);
+//		
+	}
+
+}

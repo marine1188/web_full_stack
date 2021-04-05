@@ -1,0 +1,13 @@
+package ex02.oop;
+
+public class Rectangle {
+	private int x,y,x2,y2;
+	
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

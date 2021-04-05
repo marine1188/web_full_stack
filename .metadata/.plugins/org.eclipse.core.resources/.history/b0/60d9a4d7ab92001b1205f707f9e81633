@@ -1,0 +1,17 @@
+package quiz;
+
+import java.util.Scanner;
+
+public class quiz_03 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//배열 문제 3
+		
+		int[][] a3 = { {1,2,3}, {4,5,6} };  //초기화
+
+	
+
+	}
+
+}

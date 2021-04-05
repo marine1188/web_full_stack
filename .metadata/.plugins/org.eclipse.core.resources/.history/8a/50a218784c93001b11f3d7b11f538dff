@@ -1,0 +1,19 @@
+package ex01.method;
+
+public class MainEntry {
+
+	public static void main(String[] args) { // 시작점(진입점)
+		System.out.println("main start ~");
+		showName();
+		System.out.println("main end ~");
+		showName();
+		
+	}
+
+	//1) 매개 변수 없고, 리턴타입 없는 경우
+	public static void showName() {// 함수정의부(구현부)
+		System.out.println("gi dong");
+	}
+
+}
+

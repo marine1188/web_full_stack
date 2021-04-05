@@ -1,0 +1,10 @@
+package quiz02;
+
+public class Biclycle extends Thread {
+	String name = null;
+	
+	public void start() {
+		
+	}
+
+}

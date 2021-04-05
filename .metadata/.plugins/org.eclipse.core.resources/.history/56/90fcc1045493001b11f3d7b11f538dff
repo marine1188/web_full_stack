@@ -1,0 +1,19 @@
+package ex01.method;
+
+public class ArgumentVariable {
+	// 자료 형이 같아야함 ex. int =int / int=d
+	public static void plus(int x, int y) {
+		System.out.println(x+y);
+	}
+	public static void plus(int x, int y,int z) {
+		System.out.println(x+y+z);
+	}
+	
+	// 가변 길이( ArgumentVariable)로 만들자 하나로 해결되게 
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		plus(1,2,3,4,5,6);
+
+	}
+
+}

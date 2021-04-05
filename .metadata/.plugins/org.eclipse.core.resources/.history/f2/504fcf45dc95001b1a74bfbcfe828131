@@ -1,0 +1,9 @@
+package quiz02;
+
+public abstract class Trans {
+
+	
+	public abstract void start(String name) {
+		
+	}
+}

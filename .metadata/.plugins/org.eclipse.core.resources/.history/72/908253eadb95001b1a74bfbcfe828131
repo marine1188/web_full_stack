@@ -1,0 +1,8 @@
+package quiz02;
+
+public abstract class Trans {
+	
+	abstract void start() {
+		
+	}
+}

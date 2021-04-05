@@ -1,0 +1,12 @@
+package ex06.random;
+import java.util.Random;
+public class random {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			Random rand = new Random();// 생성 ,메모리에 할당 ,생성자함수 자동호출
+			
+			System.out.println(rand.nextInt());
+	}
+
+}

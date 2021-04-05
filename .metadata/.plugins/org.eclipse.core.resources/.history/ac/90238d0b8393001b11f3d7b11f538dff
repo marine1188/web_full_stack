@@ -1,0 +1,12 @@
+package ex02.oop;
+
+public class MainEntry {
+	public static void main(String[] args) {
+		Circle c = new Circle();
+		c.setR(5);  c.setX(100);  c.setY(200);
+		c.disp();
+		
+		Rectangle r = new Rectangle();
+		
+	}
+}

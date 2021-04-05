@@ -1,0 +1,16 @@
+package ex02.method;
+
+public class MethodTest {
+// 자동으로 만들어짐
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int result = methodEx(1.2,5.7);
+	}
+
+	private static int methodEx(double d1, double d2) {
+		//더블 타입에 합을 잡고
+		double hap = d1+d2;
+		return 0;
+	}
+
+}

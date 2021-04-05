@@ -1,0 +1,6 @@
+package quiz;
+
+public class Regular extends Employee {
+	protected int pay = 0;
+	
+}

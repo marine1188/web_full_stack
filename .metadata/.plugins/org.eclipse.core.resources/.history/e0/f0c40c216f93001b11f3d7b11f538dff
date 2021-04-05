@@ -1,0 +1,18 @@
+package ex06.random;
+
+public class MathRandom {
+
+	public static void main(String[] args) {
+		System.out.println(Math.PI);// 파이 나은거
+		
+		System.out.println("");
+		
+		//random() : 난수 발생 0.0 ~1.0
+		
+		System.out.println(Math.random());
+		for (int i = 0; i < 5; i++) {
+			System.out.println(Math.random());
+		}
+	}
+
+}

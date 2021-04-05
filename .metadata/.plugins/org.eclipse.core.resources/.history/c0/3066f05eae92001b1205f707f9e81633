@@ -1,0 +1,30 @@
+package ex02.array;
+
+public class ArrayEx03 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int[][][] arr = new int [2][2][3];
+		int x = 0;
+		
+		System.out.println("면 =" + arr.length);//2
+		System.out.println("행 =" + arr[0].length);//2
+		System.out.println("열 =" + arr[0][1].length);//2
+		System.out.println("면 =" + arr[0][0].length);//2
+		
+		//iput
+		for (int i = 0; i < arr.length; i++) {
+			for (int j = 0; j < arr.length; j++) {
+				for (int k = 0; k< arr.length; k++) {
+					arr[i][j][k] = ++x;
+				}
+			}
+		}
+		for (int i = 0; i < arr.length; i++) {
+			for (int j = 0; j < arr.length; j++) {
+				for (int k = 0; k< arr.length; k++) {
+					arr[i][j][k] = ++x;
+		
+	}
+
+}

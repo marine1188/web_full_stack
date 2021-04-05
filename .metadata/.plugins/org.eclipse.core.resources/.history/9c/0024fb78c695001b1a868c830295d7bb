@@ -1,0 +1,37 @@
+/*
+ 이름 ,직급 부서,연락처
+ */
+package quiz;
+
+public class Employee {
+	protected String name = null;
+	protected String rank = null;
+	protected String department = null;
+	protected String contact = null;
+	
+
+	
+	public String toString() {
+		return"이름 :"+Name();
+	}
+
+	private String Name() {
+		return name = "조성규";
+		
+	}
+
+	public String toString() {
+		return"이름 :"+Name();
+	}
+	private String Rank() {
+		return rank = "사령관";
+	}
+	private String Department() {
+		return department = "해병대 사령부";
+	}
+	private String Contact() {
+		return contact = "010-2733-1549";
+	}
+	
+
+}
