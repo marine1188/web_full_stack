@@ -19,11 +19,21 @@
 <fullyQualifiedTypeName name="ex02.inheritance.Circle"/>
 <fullyQualifiedTypeName name="ex04.Abstract.Triangle"/>
 <fullyQualifiedTypeName name="ex04.Abstract.Square"/>
-<fullyQualifiedTypeName name="ex05.Abstract.Shape"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="ex05.Abstract.Triangel"/>
 <fullyQualifiedTypeName name="ex05.Abstract.Rect"/>
 <fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="javax.xml.stream.events.StartDocument"/>
 <fullyQualifiedTypeName name="quiz02.Biclycle"/>
+<fullyQualifiedTypeName name="quiz02.Trans"/>
+<fullyQualifiedTypeName name="quiz02.I_Biclycle"/>
+<fullyQualifiedTypeName name="quiz02.I_Plain"/>
+<fullyQualifiedTypeName name="quiz02.I_Subway"/>
+<fullyQualifiedTypeName name="quiz02.I_Trans"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="ex05.Abstract.Shape"/>
+<fullyQualifiedTypeName name="ex04.userException.MainEntry"/>
+<fullyQualifiedTypeName name="ex07.Enum.UserStatus"/>
+<fullyQualifiedTypeName name="java.awt.Rectangle"/>
+<fullyQualifiedTypeName name="ex08.apiObject.Rectangle"/>
 </qualifiedTypeNameHistroy>
