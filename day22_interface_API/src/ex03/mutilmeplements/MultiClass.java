@@ -3,20 +3,13 @@ package ex03.mutilmeplements;
 import ex02.Interface.IDraw;
 import ex05.Abstract.Shape;
 
-public class MultiClass extends Shape 
-											implements Test, IDraw {
-	
+public class MultiClass extends Shape implements Test, IDraw {
+
 	int num = 129;
 
 	@Override
 	public void draw() {
 		System.out.println("IDraw interface");
-	}
-
-	@Override
-	public void tview() {
-		System.out.println("Test interface");
-
 	}
 
 	@Override
@@ -30,11 +23,10 @@ public class MultiClass extends Shape
 		System.out.println("Shape abstract class show method");
 	}
 
+	@Override
+	public void tview() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
-
-
-
-
-
-
-

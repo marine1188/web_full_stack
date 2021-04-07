@@ -17,10 +17,10 @@ public class MianEntry {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Trans [] tt = new Trans[4];
-		tt[0] = new Trans();
-		tt[1] = new Trans();
-		tt[2] = new Trans();
-		tt[3] = new Trans();
+//		tt[0] = new Trans();
+//		tt[1] = new Trans();
+//		tt[2] = new Trans();
+//		tt[3] = new Trans();
 		String[]name = {"지하철","버스","자전거","비행기"};
 		for (int i = 0; i < tt.length; i++) {
 			tt[i].start(name[i]);
