@@ -1,0 +1,13 @@
+
+select * from Customers;
+
+
+create table Customers (
+	code number(4) primary key,
+	name varchar2(30) not null,
+	email varchar2(30),
+	phone varchar2(20)
+);
+
+insert into customers values(1, 'doyeon', 'kingsmile@kosta.or.kr', '010-9872-0202');
+drop table  Customers;
